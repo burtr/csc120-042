@@ -1,5 +1,6 @@
+package intro;
 
-public class HelloWorld   // file must be called HelloWorld.java
+public class HelloWorld   // file must be called intro.HelloWorld.java
 {
     public static  // pure magic
     void main  ( String [] args  )  // method signature

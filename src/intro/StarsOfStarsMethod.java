@@ -1,3 +1,5 @@
+package intro;
+
 public class StarsOfStarsMethod {
 // burton rosenberg
 // 3 feb, 2004

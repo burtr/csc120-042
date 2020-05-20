@@ -1,3 +1,5 @@
+package intro;
+
 public class SumIntLooping {
 
     static final int N = 6;
